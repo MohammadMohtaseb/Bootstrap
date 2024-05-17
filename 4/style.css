@@ -1,0 +1,15 @@
+label{
+    font-weight: bolder;
+}
+
+.dateOfBirth{
+    width: 100%;
+}
+
+form{
+  margin-left: 5px;
+}
+
+.form-check{
+  display: inline-block;
+}

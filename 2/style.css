@@ -1,0 +1,64 @@
+.btn-primary1{
+    background-color: red;
+    border:1px solid red;
+    border-radius: 10px;
+    height: 8vh;
+    margin-top: 3px;
+    
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btn-primary2{
+    background-color: orange;
+    border:1px solid orange;
+    height: 7vh;
+    font-size: 25px;
+    color: white;
+    margin-top: 2px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.btn-primary3{
+    background-color: green;
+    border:1px solid green;
+    height: 6vh;
+    font-size: 20px;
+    color: white;
+    margin-top: 1px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#btnDwn1{
+    font-size: 30px;
+    background-color: red;
+    border: 1px solid red; 
+    width: 10%;
+    height: 10vh;
+}
+#btnDwn2{
+    width: 150px;
+    height: 8vh;
+    font-size: 25px;
+    background-color: orange;
+    border: 1px solid orange;
+}
+#btnDwn3{
+    width: 130px;
+    height: 50px;
+    font-size: 20px;
+    background-color: green;
+    border: 1px solid green;
+}
+#btnDwn4{
+    
+    
+    font-size: 15px;
+    background-color: grey;
+    border: 1px solid grey;
+    color: black;
+}
